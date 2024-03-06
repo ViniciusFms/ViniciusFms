@@ -8,7 +8,7 @@
 </div>
   
   ##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![ViniciusFms GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusFms&show_icons=true&theme=radical)
  
 <div> 
 <a href="https://www.linkedin.com/in/vinicius-felipe-merele" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
