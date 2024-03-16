@@ -12,10 +12,16 @@
  <img algn="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
  <img algn="center" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
-  
-  ##
-![ViniciusFms GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusFms&show_icons=true&theme=dracula)
- 
+<br>
+<div>
+ <a href="https://github.com/ViniciusFms/github-readme-stats">
+ <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ViniciusFms&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/ViniciusFms/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ViniciusFms&show_icons=true&theme=radical&layout=compact&langs_count=8&card_width=320" />
+</a>
+</div>
+<br>
 <div> 
 <a href="https://www.linkedin.com/in/vinicius-felipe-merele" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+</div>
